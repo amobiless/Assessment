@@ -1,5 +1,4 @@
-""" First version of a name and number checker to ensure valid input
-Created by Ashlee Barrell
+""" Created by Ashlee Barrell
 02/08/2021
 """
 
